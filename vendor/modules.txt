@@ -31,7 +31,7 @@ github.com/docker/go-connections/tlsconfig
 github.com/docker/go-units
 # github.com/genuinetools/pkg v0.0.0-20180910213200-1c141f661797
 github.com/genuinetools/pkg/cli
-# github.com/gogo/protobuf v1.1.1
+# github.com/gogo/protobuf v1.3.2
 github.com/gogo/protobuf/proto
 # github.com/opencontainers/go-digest v0.0.0-20180430190053-c9281466c8b2
 github.com/opencontainers/go-digest
@@ -53,13 +53,13 @@ github.com/pkg/errors
 github.com/sirupsen/logrus
 # github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2
 github.com/syndtr/gocapability/capability
-# golang.org/x/crypto v0.0.0-20180910181607-0e37d006457b
+# golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 golang.org/x/crypto/ssh/terminal
-# golang.org/x/net v0.0.0-20180925072008-f04abc6bdfa7
-golang.org/x/net/context
+# golang.org/x/net v0.0.0-20201021035429-f5854403a974
 golang.org/x/net/context/ctxhttp
 golang.org/x/net/internal/socks
 golang.org/x/net/proxy
-# golang.org/x/sys v0.0.0-20180925112736-b09afc3d579e
+# golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
+golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
