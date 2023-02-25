@@ -1,6 +1,6 @@
 # github.com/Microsoft/go-winio v0.4.11
 github.com/Microsoft/go-winio
-# github.com/docker/distribution v0.0.0-20180920194744-16128bbac47f
+# github.com/docker/distribution v2.8.0+incompatible
 github.com/docker/distribution/digestset
 github.com/docker/distribution/reference
 # github.com/docker/docker v0.0.0-20180924202107-a9c061deec0f
