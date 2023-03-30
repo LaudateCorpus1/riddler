@@ -1,5 +1,7 @@
 # github.com/Microsoft/go-winio v0.4.11
 github.com/Microsoft/go-winio
+# github.com/coreos/go-systemd/v22 v22.3.2
+github.com/coreos/go-systemd/v22/dbus
 # github.com/docker/distribution v0.0.0-20180920194744-16128bbac47f
 github.com/docker/distribution/digestset
 github.com/docker/distribution/reference
@@ -27,10 +29,12 @@ github.com/docker/docker/errdefs
 github.com/docker/go-connections/nat
 github.com/docker/go-connections/sockets
 github.com/docker/go-connections/tlsconfig
-# github.com/docker/go-units v0.3.3
+# github.com/docker/go-units v0.4.0
 github.com/docker/go-units
 # github.com/genuinetools/pkg v0.0.0-20180910213200-1c141f661797
 github.com/genuinetools/pkg/cli
+# github.com/godbus/dbus/v5 v5.0.6
+github.com/godbus/dbus/v5
 # github.com/gogo/protobuf v1.1.1
 github.com/gogo/protobuf/proto
 # github.com/opencontainers/go-digest v0.0.0-20180430190053-c9281466c8b2
@@ -38,28 +42,28 @@ github.com/opencontainers/go-digest
 # github.com/opencontainers/image-spec v1.0.1
 github.com/opencontainers/image-spec/specs-go
 github.com/opencontainers/image-spec/specs-go/v1
-# github.com/opencontainers/runc v0.0.0-20180920170208-00dc70017d22
+# github.com/opencontainers/runc v1.1.5
 github.com/opencontainers/runc/libcontainer/configs
 github.com/opencontainers/runc/libcontainer/devices
 github.com/opencontainers/runc/libcontainer/user
-# github.com/opencontainers/runtime-spec v0.0.0-20180913141938-5806c3563733
+# github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417
 github.com/opencontainers/runtime-spec/specs-go
-# github.com/opencontainers/selinux v0.0.0-20180628160156-b6fa367ed7f5
+# github.com/opencontainers/selinux v1.10.0
 github.com/opencontainers/selinux/go-selinux
 github.com/opencontainers/selinux/go-selinux/label
+github.com/opencontainers/selinux/pkg/pwalk
+github.com/opencontainers/selinux/pkg/pwalkdir
 # github.com/pkg/errors v0.8.0
 github.com/pkg/errors
-# github.com/sirupsen/logrus v1.0.6
+# github.com/sirupsen/logrus v1.8.1
 github.com/sirupsen/logrus
-# github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2
+# github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635
 github.com/syndtr/gocapability/capability
-# golang.org/x/crypto v0.0.0-20180910181607-0e37d006457b
-golang.org/x/crypto/ssh/terminal
-# golang.org/x/net v0.0.0-20180925072008-f04abc6bdfa7
-golang.org/x/net/context
+# golang.org/x/net v0.0.0-20201224014010-6772e930b67b
 golang.org/x/net/context/ctxhttp
 golang.org/x/net/internal/socks
 golang.org/x/net/proxy
-# golang.org/x/sys v0.0.0-20180925112736-b09afc3d579e
+# golang.org/x/sys v0.0.0-20211116061358-0a5406a5449c
+golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
